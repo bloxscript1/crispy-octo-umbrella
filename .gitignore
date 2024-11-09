@@ -128,10 +128,10 @@ bruh11.Thickness = 2
 bruh11.Parent = bruh9
 
 
-local key = "bruh" -- Enter Your Key Here
+local key = "5509" -- Enter Your Key Here
 
 bruh6.MouseButton1Click:Connect(function()
-  setclipboard("Put Ad Link Here to get copied") 
+  setclipboard("https://paste-drop.com/paste/h6t7miTuNU") 
 end)
 
 bruh9.MouseButton1Click:Connect(function()
